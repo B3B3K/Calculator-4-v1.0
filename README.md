@@ -1,1 +1,2 @@
-# Calculator-4-v1.0
+it's my first project -lol-
+###USAGE 
